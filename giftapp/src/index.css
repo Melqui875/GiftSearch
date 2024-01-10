@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 /**
  * Automatic version:
  * Uses light theme by default but switches to dark theme
